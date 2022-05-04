@@ -1,0 +1,28 @@
+To Learn Java Languague Programming
+=>>https://www.javatpoint.com/java-program-to-swap-two-numbers-using-bitwise-operator
+
+Link For Course To Learn Java 
+=>>https://www.youtube.com/watch?v=mNvJipMTKSM&list=PLCInYL3l2AajYlZGzU_LVrHdoouf8W6ZN
+
+Search about =>>operators precedence in java docs
+Search about =>>Escape Sequences in java
+Search about =>>java number methods
+Search about =>>Equality ,Relational,and Conditional Operators in java
+ Search about =>>         java number methods
+    Search about =>>      java string methods
+       Search about =>>   java character methods
+        Search about =>>  java array methods
+Search about =>>call by value in java
+Search about =>>call by referance in java
+
+Link For Using In Course
+=>>docs.oricale.com/javase/toturial/java/nutsandbolts/operators.html
+
+link for using in course please chek it Question And Answer
+=>https://www.w3resource.com/java-exercises/array/index.php
+
+link for using in course is very important
+=>https://docs.oracle.com/javase/7/docs/api/java/lang/String.html
+
+
+
